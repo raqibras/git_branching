@@ -1,1 +1,2 @@
 This file must to be ignored
+New file
