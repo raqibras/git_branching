@@ -1,3 +1,3 @@
-# git_branching
-# Testing gitignore
-# Testing gitattributes
+git_branching
+Testing gitignore
+Testing gitattributes
